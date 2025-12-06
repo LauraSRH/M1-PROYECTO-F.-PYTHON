@@ -1,0 +1,5 @@
+Nombre: laura romero, Edad: 56, estatura: 1.6, peso: 84.0, IMC: 32.81249999999999
+Nombre: laura romero, Edad: 56, estatura: 1.6, peso: 84.0, IMC: 32.81249999999999
+Nombre: laura, Edad: 45, estatura: 1.6, peso: 90.0, IMC: 35.15624999999999
+Nombre: lau, Edad: 45, estatura: 1.2, peso: 89.0, IMC: 61.80555555555556
+Nombre: laura romero, Edad: 56, estatura: 1.6, peso: 80.0, IMC: 31.249999999999993

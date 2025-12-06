@@ -1,0 +1,1 @@
+Nombre: Laura, Apellidos: Romero, Edad: 56, País: Mexico, Curso: Python
